@@ -1,0 +1,4 @@
+routes:
+  - name: "Test"
+    prefix: "test"
+    path: "./test"
