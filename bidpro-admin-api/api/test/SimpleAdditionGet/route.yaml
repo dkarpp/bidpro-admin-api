@@ -1,2 +1,2 @@
 method: "get"
-route: "simpleaddition/:num1/:num2"
+route: "simpleaddition/{num1}/{num2}"
