@@ -30,8 +30,7 @@ test("SimpleMathGet returns status code 404 for missing operator", async () => {
   let req = {
     header: {},
     params: {
-      num1: 4,
-      num2: 7,
+      num1: 10,
     },
   };
 
@@ -46,8 +45,8 @@ test("SimpleMathGet returns status code 404 for missing num2", async () => {
   let req = {
     header: {},
     params: {
-      num1: 4,
-      operator: "%2B",
+      num1: 10,
+      operator: "+",
     },
   };
 
@@ -63,8 +62,8 @@ test("SimpleMathGet returns status code 406 for num1 is not a number", async () 
     header: {},
     params: {
       num1: "abc",
-      operator: "%2B",
-      num2: 4,
+      operator: "+",
+      num2: 5,
     },
   };
 
@@ -79,9 +78,9 @@ test("SimpleMathGet returns status code 406 for num2 is not a number", async () 
   let req = {
     header: {},
     params: {
-      num1: 5,
-      operator: "%2B",
-      num2: "abc",
+      num1: 10,
+      operator: "+",
+      num2: "xyz",
     },
   };
 
@@ -96,9 +95,9 @@ test("SimpleMathGet returns status code 406 and error message if operator is not
   let req = {
     header: {},
     params: {
-      num1: 5,
-      operator: "none",
-      num2: 6,
+      num1: 10,
+      operator: "abc",
+      num2: 5,
     },
   };
 
@@ -113,9 +112,9 @@ test("SimpleMathGet returns status code 200 with the answer", async () => {
   let req = {
     header: {},
     params: {
-      num1: 5,
+      num1: 10,
       operator: "+",
-      num2: 6,
+      num2: 5,
     },
   };
 
@@ -126,5 +125,5 @@ test("SimpleMathGet returns status code 200 with the answer", async () => {
   const body = res.json.mock.calls[0][0];
 
   expect(res.status).toHaveBeenCalledWith(200);
-  expect(body).toEqual({ answer: 11 });
+  expect(body).toEqual({ answer: 15 });
 });
