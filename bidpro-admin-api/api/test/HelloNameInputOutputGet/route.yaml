@@ -1,2 +1,2 @@
 method: "get"
-route: "helloname"
+route: "helloname/{name}"
