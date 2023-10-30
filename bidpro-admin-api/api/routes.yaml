@@ -2,3 +2,7 @@ routes:
   - name: "Test"
     prefix: "test"
     path: "./test"
+
+  - name: "Assignment"
+    prefix: "assignment"
+    path: "./assignment"
