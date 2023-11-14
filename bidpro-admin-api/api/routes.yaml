@@ -6,3 +6,7 @@ routes:
   - name: "Assignment"
     prefix: "assignment"
     path: "./assignment"
+
+  - name: "Books"
+    prefix: "books"
+    path: "./books"
