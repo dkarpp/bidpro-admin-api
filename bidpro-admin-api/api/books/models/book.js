@@ -1,8 +1,7 @@
-const { Schema } = require("mongoose");
 const mongoose = require("mongoose");
 
-const BookSchema = Schema({
-  _id: Schema.Types.ObjectId,
+const BookSchema = mongoose.Schema({
+  _id: mongoose.Schema.Types.ObjectId,
   title: String,
   genre: String,
   author: String,

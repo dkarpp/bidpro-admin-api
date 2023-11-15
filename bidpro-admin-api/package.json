@@ -16,5 +16,8 @@
     "js-yaml": "^4.1.0",
     "mongoose": "^6.9.1",
     "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "mockingoose": "^2.16.2"
   }
 }
