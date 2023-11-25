@@ -1,0 +1,208 @@
+[
+  {
+    "_id": "655441e9b8915a0d762c294c",
+    "bidType": {
+      "fleet": "73G",
+      "seat": "CPT",
+      "domicile": "GEG"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      },
+      {
+        "month": 3,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "65544420b8915a0d762c294d",
+    "bidType": {
+      "fleet": "73G",
+      "seat": "FO",
+      "domicile": "GEG"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      },
+      {
+        "month": 3,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "6554443eb8915a0d762c294e",
+    "bidType": {
+      "fleet": "747",
+      "seat": "CPT",
+      "domicile": "GEG"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      },
+      {
+        "month": 3,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "6554444db8915a0d762c294f",
+    "bidType": {
+      "fleet": "747",
+      "seat": "FO",
+      "domicile": "GEG"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      },
+      {
+        "month": 3,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "6554445fb8915a0d762c2950",
+    "bidType": {
+      "fleet": "757",
+      "seat": "CPT",
+      "domicile": "GEG"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      },
+      {
+        "month": 3,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "65544468b8915a0d762c2951",
+    "bidType": {
+      "fleet": "757",
+      "seat": "FO",
+      "domicile": "GEG"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      },
+      {
+        "month": 3,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "655444b2b8915a0d762c2952",
+    "bidType": {
+      "fleet": "757",
+      "seat": "CPT",
+      "domicile": "PDX"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "655444c5b8915a0d762c2953",
+    "bidType": {
+      "fleet": "757",
+      "seat": "FO",
+      "domicile": "PDX"
+    },
+    "bidPeriods": [
+      {
+        "month": 1,
+        "year": 2023
+      },
+      {
+        "month": 2,
+        "year": 2023
+      }
+    ],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "655444f4b8915a0d762c2954",
+    "bidType": {
+      "fleet": "A300",
+      "seat": "CPT",
+      "domicile": "DFW"
+    },
+    "bidPeriods": [],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  },
+  {
+    "_id": "65544504b8915a0d762c2955",
+    "bidType": {
+      "fleet": "A300",
+      "seat": "FO",
+      "domicile": "DFW"
+    },
+    "bidPeriods": [],
+    "status": 0,
+    "importedOn": "2023-05-08T07:00:00.000Z"
+  }
+]

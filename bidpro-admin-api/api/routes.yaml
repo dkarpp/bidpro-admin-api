@@ -10,3 +10,7 @@ routes:
   - name: "Books"
     prefix: "books"
     path: "./books"
+
+  - name: "BidPro"
+    prefix: "bidpro"
+    path: "./bidpro"
