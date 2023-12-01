@@ -1,0 +1,2 @@
+method: "put"
+route: "bidtypes/import/{id}/complete"

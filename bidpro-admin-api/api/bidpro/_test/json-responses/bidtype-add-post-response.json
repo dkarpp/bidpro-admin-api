@@ -1,0 +1,24 @@
+{
+  "_id": "655441e9b8915a0d762c294cv",
+  "bidType": {
+    "fleet": "73A",
+    "seat": "CPT",
+    "domicile": "DAY"
+  },
+  "bidPeriods": [
+    {
+      "month": 1,
+      "year": 2023
+    },
+    {
+      "month": 2,
+      "year": 2023
+    },
+    {
+      "month": 3,
+      "year": 2023
+    }
+  ],
+  "status": 0,
+  "importedOn": "2023-05-08T07:00:00.000Z"
+}

@@ -24,7 +24,10 @@ module.exports = makeInjectable(
     if (req.body.author) {
       book.author = req.body.author;
     }
-    if (req.body.read == true || req.body.read == false) {
+    if (
+      req.body.read != undefined &&
+      (req.body.read == true || req.body.read == false)
+    ) {
       book.read = req.body.read;
     }
 

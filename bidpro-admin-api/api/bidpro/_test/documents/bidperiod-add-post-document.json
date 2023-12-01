@@ -1,0 +1,17 @@
+{
+  "_id": "65544504b8915a0d762c2955",
+  "bidType": {
+    "fleet": "A300",
+    "seat": "FO",
+    "domicile": "DFW"
+  },
+  "bidPeriods": [
+    {
+      "_id": "65681756d85efb052170240z",
+      "month": 8,
+      "year": 2023
+    }
+  ],
+  "status": 0,
+  "importedOn": "2023-05-08T07:00:00.000Z"
+}

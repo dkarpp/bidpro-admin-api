@@ -10,14 +10,23 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b4bd52b08afb1d9b39aa"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b4ce6fd1bf410148ca95"
+        },
         "month": 2,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b4d16fda01d3d88b7fb4"
+        },
         "month": 3,
         "year": 2023
       }
@@ -38,14 +47,23 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b4f2f2dc60e34dbe55b6"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b4f63b9567630a345f5c"
+        },
         "month": 2,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b4f8553de01d7fac380e"
+        },
         "month": 3,
         "year": 2023
       }
@@ -66,14 +84,23 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b50ac01c4d1a634d5275"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b50eb225a49ffbd08dc2"
+        },
         "month": 2,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b51173f359d40d3136d2"
+        },
         "month": 3,
         "year": 2023
       }
@@ -94,14 +121,23 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b5228c75283eee1261af"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b527f19b0c86976b1433"
+        },
         "month": 2,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b52adc9ec097d54994e5"
+        },
         "month": 3,
         "year": 2023
       }
@@ -122,14 +158,23 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b53d1d65eace0d3e250d"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b541e0c57a62eb10e98b"
+        },
         "month": 2,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b54478015a2717f7a7f4"
+        },
         "month": 3,
         "year": 2023
       }
@@ -150,14 +195,23 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b55285fd4601402dcafe"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b555444f10d14706eb71"
+        },
         "month": 2,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b557052b032fd143dcb8"
+        },
         "month": 3,
         "year": 2023
       }
@@ -178,10 +232,16 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b562aa344ef195d7f4f5"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b56593d95e1efc522a92"
+        },
         "month": 2,
         "year": 2023
       }
@@ -202,10 +262,16 @@
     },
     "bidPeriods": [
       {
+        "_id": {
+          "$oid": "6567b5731167ae91241f1bb3"
+        },
         "month": 1,
         "year": 2023
       },
       {
+        "_id": {
+          "$oid": "6567b576821b846305957d08"
+        },
         "month": 2,
         "year": 2023
       }
