@@ -46,7 +46,7 @@ test("BidTypeByIdGet returns status code 404 if the document is not found for id
   expect(res.status).toHaveBeenCalledWith(404);
 });
 
-test("BookByIdGet returns book based on id", async () => {
+test("BookByIdGet returns 200 based on id", async () => {
   const bidProDocument = getJSON(
     "../api/bidpro/_test/documents/bidpro-by-id-get-document.json"
   );

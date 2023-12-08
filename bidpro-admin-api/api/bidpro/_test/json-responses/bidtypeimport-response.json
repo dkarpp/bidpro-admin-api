@@ -1,0 +1,24 @@
+{
+  "_id": "655441e9b8915a0d762c294c",
+  "bidType": {
+    "fleet": "73G",
+    "seat": "CPT",
+    "domicile": "GEG"
+  },
+  "bidPeriods": [
+    {
+      "month": 1,
+      "year": 2023
+    },
+    {
+      "month": 2,
+      "year": 2023
+    },
+    {
+      "month": 3,
+      "year": 2023
+    }
+  ],
+  "status": 1,
+  "importedOn": "2023-05-08T07:00:00.000Z"
+}

@@ -9,6 +9,7 @@ const BidProSchema = mongoose.Schema({
   },
   bidPeriods: [
     {
+      _id: mongoose.Schema.Types.ObjectId,
       month: Number,
       year: Number,
     },
@@ -17,6 +18,7 @@ const BidProSchema = mongoose.Schema({
   importedOn: Date,
 });
 
+/*
 BidProSchema.set("toJSON", {
   transform: (doc, ret) => {
     // Remove _id field from subdocuments within bidPeriods array
@@ -26,5 +28,5 @@ BidProSchema.set("toJSON", {
     return ret;
   },
 });
-
+*/
 module.exports = mongoose.model("BidTypes", BidProSchema, "BidTypes");

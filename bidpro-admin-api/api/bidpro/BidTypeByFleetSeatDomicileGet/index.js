@@ -22,7 +22,6 @@ module.exports = makeInjectable(
       "bidType.domicile": req.params.domicile,
     });
 
-    //Check that book was retrieved, return 404 if not found
     if (bidpro.length === 0) {
       return res.status(404).send();
     }
