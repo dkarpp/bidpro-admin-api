@@ -1,0 +1,2 @@
+method: "delete"
+route: "delete/{id}"
