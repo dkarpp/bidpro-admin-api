@@ -1,0 +1,2 @@
+method: "get"
+route: "pilots/email/{email}"

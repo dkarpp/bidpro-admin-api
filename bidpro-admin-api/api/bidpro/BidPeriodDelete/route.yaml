@@ -1,0 +1,2 @@
+method: "delete"
+route: "bidtypes/bidperiod/delete"

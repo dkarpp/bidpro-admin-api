@@ -1,0 +1,2 @@
+method: "put"
+route: "pilot/update/phone"

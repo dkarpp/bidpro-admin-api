@@ -1,0 +1,22 @@
+{
+  "pilotInfo": {
+    "firstName": "Tom",
+    "lastName": "Jones",
+    "email": "tttjones@ups.com",
+    "areaCode": "509",
+    "prefix": "555",
+    "suffix": "1212",
+    "address1": "1313 Mocking Bird Lane",
+    "address2": "null",
+    "city": "Spokane",
+    "state": "WA",
+    "postalCode": "99208"
+  },
+  "bidInfo": {
+    "seat": "FO",
+    "fleet": "53A",
+    "domicile": "GEG"
+  },
+  "_id": "6576c595c00bf2392a2c3528",
+  "airline": "UPS"
+}
